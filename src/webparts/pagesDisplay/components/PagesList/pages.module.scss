@@ -1,0 +1,41 @@
+.title {
+  font-size: medium;
+  font-weight: 600;
+
+  .subTitle {
+    font-weight: normal;
+    .knowledgeText {
+      color: #2492ec;
+      font-size: small;
+    }
+  }
+}
+
+.top {
+  .first-section {
+    width: 100%;
+    overflow: hidden;
+    background: #efefef;
+  }
+}
+
+.knowledgeText {
+  font-size: 30px;
+  color: #5f5858;
+  font-weight: 600;
+}
+
+.blueText {
+  color: #0a6fc1;
+}
+
+.pagination-btns {
+  color: #1676bf !important;
+  cursor: pointer;
+  font-size: small;
+}
+
+.disabledPagination {
+  color: #c5d7e3 !important;
+  pointer-events: none; /* To prevent clicking */
+}

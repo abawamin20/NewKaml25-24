@@ -1,0 +1,24 @@
+.intro {
+  text-align: center;
+  font-size: medium;
+  font-weight: 500;
+  color: white;
+  background-color: #2492ec;
+  margin-bottom: 15px;
+}
+
+.form-container {
+  border: 1px solid black;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+.provider-detail {
+  font-size: medium;
+  margin-bottom: 15px;
+}
+
+.provider-detail span {
+  font-weight: bold;
+  font-size: medium;
+}

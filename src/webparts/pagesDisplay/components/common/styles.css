@@ -1,0 +1,8 @@
+.ms-List-cell:nth-child(even) .ms-DetailsRow {
+  background-color: #efefef !important;
+}
+
+.detailList {
+  scrollbar-color: #f5f5f5;
+  scrollbar-width: thin;
+}

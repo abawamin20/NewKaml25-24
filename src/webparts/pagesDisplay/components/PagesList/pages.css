@@ -1,0 +1,25 @@
+.pagination_321a58d6 {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.ms-DetailsHeader-cell:hover {
+  background-color: "#90c2e9" !important;
+}
+
+.ms-DetailsHeader-cellTitle {
+  align-items: center !important;
+  justify-content: space-between !important;
+}
+
+.ms-DetailsHeader-cellName {
+  width: 100%;
+}
+
+#foo_label {
+  display: none;
+}
+
+#CommentsWrapper {
+  display: none;
+}
